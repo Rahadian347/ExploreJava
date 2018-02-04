@@ -98,7 +98,7 @@ public class Pemilik {
 			cetakMobil();
 		}
 	}
-	//Method jual mobil
+	//Method jual mobil coy
 	public void jualMobil() {
 		System.out.print("Berapa buah Mobil yang akan dijual ?");
 		int jualMobil = sc.nextInt();
